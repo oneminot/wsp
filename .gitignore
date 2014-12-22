@@ -160,3 +160,8 @@ $RECYCLE.BIN/
 *.g.h
 *.xbf 
 *.g.cpp
+
+# Assuming we do not build from the commandline 
+# If you do, you need these tlog files 
+# see https://social.msdn.microsoft.com/Forums/vstudio/en-US/67705333-a425-4d6e-9881-9077f044f87a/how-do-i-prevent-msbuild-from-creating-tlog-files-during-my-c-builds?forum=msbuild
+*.tlog
