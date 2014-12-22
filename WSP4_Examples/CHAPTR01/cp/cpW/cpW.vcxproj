@@ -13,6 +13,9 @@
   <ItemGroup>
     <ClCompile Include="cpW.c" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{9AF26CA2-321E-4098-9946-DAAE4A0F3952}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
